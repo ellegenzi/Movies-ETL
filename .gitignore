@@ -1,8 +1,11 @@
-#Adding config.py file
+# Adding config.py file
 config.py
 
 # Adding practice folder
 Kaggle_csv_files/
+
+# Adding large ratings file
+ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
