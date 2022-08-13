@@ -1,11 +1,8 @@
 #Adding config.py file
 config.py
 
-# Adding data files and folders
+# Adding practice folder
 Kaggle_csv_files/
-movies_metadata.csv
-ratings.csv
-wikipedia-movies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
